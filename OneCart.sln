@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneCart", "OneCart\OneCart.csproj", "{53228690-9ABA-4440-9E46-0E353B030E9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhone = Debug|iPhone
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53228690-9ABA-4440-9E46-0E353B030E9B}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{53228690-9ABA-4440-9E46-0E353B030E9B}.Debug|iPhone.Build.0 = Debug|iPhone
+		{53228690-9ABA-4440-9E46-0E353B030E9B}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{53228690-9ABA-4440-9E46-0E353B030E9B}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{53228690-9ABA-4440-9E46-0E353B030E9B}.Release|iPhone.ActiveCfg = Release|iPhone
+		{53228690-9ABA-4440-9E46-0E353B030E9B}.Release|iPhone.Build.0 = Release|iPhone
+		{53228690-9ABA-4440-9E46-0E353B030E9B}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{53228690-9ABA-4440-9E46-0E353B030E9B}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B3C3967-0D69-427B-A88D-BDD298CD0F95}
+	EndGlobalSection
+EndGlobal
